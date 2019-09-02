@@ -1,4 +1,4 @@
-# A secret message for the loved one !!
+# A secret message for Your loved one !!
 ### (Encoding and Decoding by illuminati algorithm (made by me))
 
 Just get started by executing run.py
@@ -6,6 +6,7 @@ Just get started by executing run.py
 --- Encrypt it
 --- Tell you friends to guess
 --- reveil the suprise
+--- have fun with code!
 
 Message is saved it .../secrets..
 
